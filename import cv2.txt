@@ -1,0 +1,12 @@
+import cv2
+
+tello.streamon()
+frame_reader = tello.get_frame_read()
+
+while True:
+    frame = frame_reader.frame
+    cv2.imshow("Tello", frame)
+    if cv2.waitKey(1) & 0xFF == ord('q'):
+        break
+
+tello.streamoff()
