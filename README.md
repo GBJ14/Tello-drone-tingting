@@ -20,7 +20,16 @@ Se filerne skite1 skitse2 og skitse3
 Se filerne blokDiagram1 og BlokDiagram2 
 
 ## 3-lags modellen.
-#### G 
+####
+(Diagram i miro)
+Præsentationslag - Drone:
+I præsentationslaget finder vi vores drone. Det er det visuelle i vores projekt som udføre de handlinger som vi og koden ber dem om. Det er selve maskinen.
+
+Logiklag - Pythonkode:
+Logiklaget beståår af kode som er skrevet i Python. Koden laver et program som giver dronen vejledninger til hvad den skal gøre.
+
+Datalag - Kamerafeed:
+I datalaget er vores kamerafeed. Det er igennem kameraet hvor vores kode træder i kraft. Koden kan då kamereat til at genkende hvise objekter som den kan følge efter.
 
 
 ## think-aloud brugertest
