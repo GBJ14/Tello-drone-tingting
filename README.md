@@ -12,7 +12,7 @@ https://trello.com/invite/b/69f05f927794f1f715907c2c/ATTIce8e3f6a2cf98432d96ac11
 
 ## skitser.
 ####
-Se filerne skite1 skitse2 og skitse3
+Se filerne skite1 skitse2 skitse3 skitse¤
 
 
 ## blokdiagram.
