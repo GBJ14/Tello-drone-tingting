@@ -20,8 +20,8 @@ Se filerne skite1 skitse2 og skitse3
 Se filerne blokDiagram1 og BlokDiagram2 
 
 ## 3-lags modellen.
-####
-(Diagram i miro)
+####(Diagram i miro)
+
 Præsentationslag - Drone:
 I præsentationslaget finder vi vores drone. Det er det visuelle i vores projekt som udføre de handlinger som vi og koden ber dem om. Det er selve maskinen.
 
