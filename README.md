@@ -17,7 +17,7 @@ Se filerne skite1 skitse2 og skitse3
 
 ## blokdiagram.
 #### S
-Se filerne BlokDiagram1 og BlokDiagram2 
+Se filerne blokDiagram1 og BlokDiagram2 
 
 ## 3-lags modellen.
 #### G 
