@@ -11,7 +11,8 @@ https://trello.com/invite/b/69f05f927794f1f715907c2c/ATTIce8e3f6a2cf98432d96ac11
 
 
 ## skitser.
-#### A
+#### 
+Se filerne skite1 skitse2 og skitse3
 
 
 ## blokdiagram.
